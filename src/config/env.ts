@@ -5,5 +5,8 @@ export const config = {
     db: {
         userName: process.env.DB_USERNAME,
         password: process.env.DB_PASSWORD,
+    },
+    jwt:{
+        accessSecret: process.env.ACCESS_SECRET
     }
 }
