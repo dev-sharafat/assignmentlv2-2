@@ -160,6 +160,14 @@ DB_PASSWORD = Database password
 ACCESS_SECRET = Access_secret
 
 ```
+
+### Installation
+```
+git clone https://github.com/dev-sharafat/assignmentlv2-2.git
+cd assignmentlv2-2
+npm install
+```
+
 ### Running the Project
 Development
 ```
